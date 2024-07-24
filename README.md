@@ -36,15 +36,16 @@
   <br>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/GitHub-green?style=flat&logo=github&logoColor=000000"/>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 </div>
 
 <h3 align="center">ETC...</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JWT-pink?style=flat&logo=jsonwebtokens&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=000000"/>
 </div>
 <hr>
 
